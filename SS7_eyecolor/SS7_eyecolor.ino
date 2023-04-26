@@ -1,3 +1,6 @@
+//SS7 eyecolor by Nicholas Ramdin
+//file  provided by Prof. A.Berkoy in use with SS7_eyecolor.pde
+// turn your potentiometer to move the eyes and change their color
 
 
 const int SENSOR = A0; //sensor hooked up to analog pin A0

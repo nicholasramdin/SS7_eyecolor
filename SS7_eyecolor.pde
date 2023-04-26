@@ -1,3 +1,9 @@
+//SS7 eyecolor by Nicholas Ramdin
+//modified original sketch provided by Prof. A.Berkoy
+// turn your potentiometer to move the eyes and change their color
+
+
+
 import processing.serial.*; //imports Serial library from Processing
 
 Serial myPort; // creates object from Serial class
